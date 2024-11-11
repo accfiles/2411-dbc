@@ -8,4 +8,4 @@ Lab files already loaded in the VM:
 
 Other items to be added later in the [wiki pages](https://github.com/accfiles/2411-dbc/wiki/):
 
-[Case study files for SQL]([/wiki/Case-Study](https://github.com/accfiles/2411-dbc/wiki/Case-Study))
+[Case study files for SQL]((https://github.com/accfiles/2411-dbc/wiki/Case-Study)
